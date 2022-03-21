@@ -1,0 +1,23 @@
+body#p1 {
+    background-color: blue;
+}
+
+body#p2 {
+    background-color: red;
+}
+body#p3 {
+    background-color: green;
+}
+a {
+    color: white;
+}
+#p1 h1 {
+    color: violet
+}
+
+#p2 p {
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+}
